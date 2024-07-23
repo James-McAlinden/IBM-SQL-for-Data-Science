@@ -1,4 +1,4 @@
-# IBM-SQL-for-Data-Science
+# IBM SQL For Data Science
 In this course, I learnt the basic and advanced concepts of SQL. Some of the advanced concepts included using methods like views, transactions, stored procedures, and joins. During this course, I: 
 •	Wrote key SQL statements like: SELECT, INSERT, UPDATE, and DELETE.
 •	Used filter functions like the WHERE, COUNT, DISTINCT, and LIMIT clauses.
